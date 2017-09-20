@@ -1,0 +1,130 @@
+body {
+	background: #777;
+	font-size: 18px;
+
+}
+
+.wrapper {
+	background: #777;
+	width: 960px;
+	margin: 0 auto 0 auto;
+	padding: 20px
+}
+
+
+#header {
+	background: #ebebeb;
+	width: 960px;
+	height: 100px;
+	display: block;
+	position: relative;
+	margin-bottom: 10px;
+	text-align-last: center;
+	vertical-align: middle;
+	line-height: 75px;
+	font-family: arial;
+	color: #777;
+}
+
+#nav {
+	padding: 10;
+	background: #ebebeb;
+	text-align: center;
+	width: 960px;
+	height: 100px;
+	margin-bottom: 20px;
+	vertical-align: middle;
+	line-height: 75px;
+	font-family: arial;
+	color: #777;
+}
+
+#aside {
+	background: #ebebeb;
+	text-align: center;
+	float: right;
+	height: 250px;
+	position: relative;
+	column-width: 400px;
+	line-height: 85px;
+	font-family: arial;
+	color: #777;
+}
+
+#boxleft {
+	padding: 10;
+	background: #ebebeb;
+	text-align: center;
+	width: 495;
+	display: block;
+	float: left;
+	height: 250px;
+	column-width: 540px;
+	text-overflow: all;
+	line-height: 85px;
+	font-family: arial;
+	color: #777;
+}
+
+#article {
+	background: #777;
+	text-align: center;
+	height: 175px;
+	position: absolute;
+	padding-right: 245px;
+	padding-left: 230px;
+	margin:20px;
+	margin-top: -20px;
+	margin-right:10px;
+	margin-left: 10px;
+	color: #ebebeb;
+	clear: all;
+	vertical-align: top;
+	line-height: 45px;
+	font-family: arial;
+}
+
+#footer {
+	padding: 10;
+	background: #ebebeb;
+	text-align: center;
+	width: 960px;
+	height: 100px;
+	vertical-align: middle;
+	line-height: 100px;
+	position: absolute;
+	clear: all;
+	margin-top: 266px;
+	font-family: arial;
+	color: #777;
+	
+}
+#h1h2h3 {
+	background: #ebebeb;
+	text-align: center;
+	vertical-align: middle;
+	height: 50px;
+	position: absolute;
+	column-width: 450px;
+	margin-right: auto;
+	margin-left:-195px;
+	margin-top: 1px;
+	color: #777;
+	vertical-align: middle;
+	line-height: 45px;
+	font-family: Helvetica, sans-serif;
+}
+
+#p {
+	background: #ebebeb;
+	text-align: center;
+	vertical-align: middle;
+	height: 50px;
+	position: absolute;
+	column-width: 450px;
+	margin-right: auto;
+	margin-left:-195px;
+	margin-top:65px;
+	color: #777;
+	vertical-align: middle;
+	line-height: 45px;
