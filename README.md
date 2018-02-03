@@ -1,2 +1,2 @@
-# HW-Wireframe
-Homework Assignment 01
+# Wireframe and CSS
+using basic HTML and CSS a wireframe is built.
